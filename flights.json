@@ -1,0 +1,142 @@
+[
+  {
+    "code": "EU",
+    "name": "Europe",
+    "countries": [
+      {
+        "code": "FR",
+        "name": "France",
+        "destinations": [
+          {
+            "route": "Nice - Paris",
+            "days": "12345"
+          },
+          {
+            "route": "Nice - Lille",
+            "days": "13467"
+          },
+          {
+            "route": "Nice - Ajaccio",
+            "days": "67"
+          }
+        ]
+      },
+      {
+        "code": "ES",
+        "name": "Espagne",
+        "destinations": [
+          {
+            "route": "Nice - Malaga",
+            "days": "145"
+          },
+          {
+            "route": "Nice - Barcelone",
+            "days": "1346"
+          },
+          {
+            "route": "Nice - Madrid",
+            "days": "1267"
+          }
+        ]
+      },
+      {
+        "code": "IT",
+        "name": "Italie",
+        "destinations": [
+          {
+            "route": "Nice - Palerme",
+            "days": "15"
+          },
+          {
+            "route": "Nice - Rome",
+            "days": "123467"
+          },
+          {
+            "route": "Nice - Naples",
+            "days": "12345"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "code": "AF",
+    "name": "Afrique",
+    "countries": [
+      {
+        "code": "MA",
+        "name": "Maroc",
+        "destinations": [
+          {
+            "route": "Nice - Marrakech",
+            "days": "1245"
+          },
+          {
+            "route": "Nice - Casablanca",
+            "days": "13567"
+          },
+          {
+            "route": "Nice - Agadir",
+            "days": "167"
+          }
+        ]
+      },
+      {
+        "code": "DZ",
+        "name": "Algérie",
+        "destinations": [
+          {
+            "route": "Nice - Alger",
+            "days": "145"
+          },
+          {
+            "route": "Nice - Constatine",
+            "days": "1346"
+          }
+        ]
+      },
+      {
+        "code": "TN",
+        "name": "Tunisie",
+        "destinations": [
+          {
+            "route": "Nice - Tunis",
+            "days": "1235"
+          },
+          {
+            "route": "Nice - Djerba",
+            "days": "123467"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "code": "NA",
+    "name": "Amérique du Nord",
+    "countries": [
+      {
+        "code": "CA",
+        "name": "Canada",
+        "destinations": [
+          {
+            "route": "Nice - Montréal",
+            "days": "2457"
+          }
+        ]
+      },
+      {
+        "code": "US",
+        "name": "Etats Unis",
+        "destinations": [
+          {
+            "route": "Nice - New York",
+            "days": "1234567"
+          }
+        ]
+      }
+    ]
+  }
+]

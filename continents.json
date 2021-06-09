@@ -1,0 +1,138 @@
+[
+  {
+    "code": "EU",
+    "name": "Europe",
+    "countries": [
+      {
+        "code": "FR",
+        "name": "France",
+        "cities": [
+          {
+            "code": "NCE",
+            "name": "Nice"
+          },
+          {
+            "name": "Paris",
+            "code": "PAR"
+          },
+          {
+            "name": "Lille",
+            "code": "LIL"
+          }
+        ]
+      },
+      {
+        "code": "ES",
+        "name": "Espagne",
+        "cities": [
+          {
+            "code": "AGP",
+            "name": "Malaga"
+          },
+          {
+            "code": "BCN",
+            "name": "Barcelone"
+          },
+          {
+            "code": "MAD",
+            "name": "Madrid"
+          }
+        ]
+      },
+      {
+        "code": "IT",
+        "name": "Italie",
+        "cities": [
+          {
+            "code": "PMP",
+            "name": "Palerme"
+          },
+          {
+            "code": "ROM",
+            "name": "Rome"
+          },
+          {
+            "code": "NAP",
+            "name": "Naples"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "code": "AF",
+    "name": "Afrique",
+    "countries": [
+      {
+        "code": "MA",
+        "name": "Maroc",
+        "cities": [
+          {
+            "code": "RAK",
+            "name": "Marrakech"
+          },
+          {
+            "code": "CMN",
+            "name": "Casablanca"
+          },
+          {
+            "code": "AGA",
+            "name": "Agadir"
+          }
+        ]
+      },
+      {
+        "code": "DZ",
+        "name": "Algérie",
+        "cities": [
+          {
+            "code": "ALG",
+            "name": "Alger"
+          },
+          {
+            "code": "CZL",
+            "name": "Constatine"
+          }
+        ]
+      },
+      {
+        "code": "TN",
+        "name": "Tunisie",
+        "cities": [
+          {
+            "code": "TUN",
+            "name": "Tunis"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "code": "NA",
+    "name": "Amérique du Nord",
+    "countries": [
+      {
+        "code": "CA",
+        "name": "Canada",
+        "cities": [
+          {
+            "code": "YMQ",
+            "name": "Montréal"
+          }
+        ]
+      },
+      {
+        "code": "US",
+        "name": "Etats Unis",
+        "cities": [
+          {
+            "code": "NYC",
+            "name": "New York"
+          }
+        ]
+      }
+    ]
+  }
+]
